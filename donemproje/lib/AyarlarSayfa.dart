@@ -10,6 +10,6 @@ class Ayarlarsayfa extends StatefulWidget {
 class _AyarlarsayfaState extends State<Ayarlarsayfa> {
   @override
   Widget build(BuildContext context) {
-    return const Center(child: Text("AYARLAR SAYFA",style: TextStyle(fontSize: 30),),);
+    return Center(child: Text("AYARLAR SAYFA",style: TextStyle(fontSize: 30),),);
   }
 }
